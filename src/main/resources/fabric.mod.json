@@ -15,7 +15,7 @@
 	"icon": "assets/modid/icon.png",
 	"environment": "*",
 	"entrypoints": {
-		"main": [
+		"main": ["your.package.ModInitializer"]
 			"com.example.ExampleMod"
 		],
 		"client": [
